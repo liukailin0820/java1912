@@ -8,4 +8,6 @@ package com.qf;
  */
 public class User {
     private String userName;
+
+    private String userPassword;
 }
